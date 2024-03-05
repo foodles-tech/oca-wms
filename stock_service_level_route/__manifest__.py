@@ -4,7 +4,7 @@
 {
     "name": "Stock service level route",
     "summary": "Manage stock rules/routes by service level",
-    "version": "14.0.1.3.1",
+    "version": "14.0.1.0.0",
     "development_status": "Beta",
     "category": "Warehouse Management",
     "website": "https://github.com/OCA/wms",
